@@ -1,0 +1,38 @@
+# SignReady PDF Support
+
+Thank you for using **SignReady PDF**.
+
+SignReady PDF is a local PDF utility designed to help prepare documents for signing, email, upload, correction, and re-signature workflows. The app can create signing-ready copies, compress PDFs, flatten forms, remove metadata, and create correction copies from readable signed, restricted, or locked PDFs.
+
+## Support Contact
+
+For support, questions, or issue reports, please contact:
+
+**[salvatoreangelone@gmail.com](mailto:salvatoreangelone@gmail.com)**
+
+When reporting an issue, please include:
+
+* The device you are using: iPhone, iPad, or Mac
+* The operating system version
+* The SignReady PDF app version
+* The workflow you were using
+* A brief description of what happened
+* Whether the issue occurs with more than one PDF
+
+Please do not send confidential, legal, financial, medical, personnel, customer, student, signature, or workplace documents. If a sample file is needed, use a non-sensitive test PDF.
+
+## Privacy
+
+SignReady PDF processes PDFs locally on your device. The app does not upload your PDF documents to a server. Your original PDF is never overwritten. Each workflow creates a separate output copy.
+
+If a PDF requires a password to open, the password is used only to access the selected local document. Passwords are not stored, transmitted, guessed, cracked, or bypassed.
+
+## Important PDF and Signature Notice
+
+Editing, rebuilding, flattening, unlocking, or compressing a signed PDF may invalidate prior digital signatures. Some workflows may rasterize pages and may not preserve selectable text, links, form fields, annotations, accessibility data, or signature validity.
+
+SignReady PDF creates new output copies for review, correction, upload, signing, or re-signature. Review all output files carefully before sending, signing, uploading, or relying on them.
+
+## Not Affiliated
+
+SignReady PDF is not affiliated with, endorsed by, or sponsored by DocuSign, Adobe, Dropbox Sign, or any other electronic signature provider.
